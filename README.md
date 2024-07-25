@@ -33,7 +33,7 @@ The initial success metric is to achieve an accuracy score of 73% or higher. But
 
 - **Data Preprocessing:** Handling missing values, encoding categorical variables, and feature scaling.
 - **Model Training:** Implementation and Comparison of multiple machine learning models to identify the best performer (Decision Tree, RandomForest, Logistic Regression, AdaBoost, XGBoost).
-- **Model Emprovement:** : Using multiples techniaues for model improvement GridSearCV, RandomSearchCV, Ensemble learning, Voting techniques
+- **Model Emprovement:** : Using multiples techniaues for model improvement GridSearCV, RandomSearchCV, Ensemble learning, Voting techniques and Stacking.
 - **Evaluation Metrics:** Calculation of accuracy, precision, recall (including specific labels), and F1-score.
 - **Cross-Validation:** Utilization of cross-validation to ensure the robustness of the model.
 - **Visualization:** Data visualization to understand the distribution and relationships within the data.
